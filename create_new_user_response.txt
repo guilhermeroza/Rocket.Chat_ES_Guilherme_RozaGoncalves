@@ -1,0 +1,26 @@
+{
+  "user": {
+    "_id": "ReFyqT5iNtRL3Zz9f",
+    "createdAt": "2021-07-03T23:40:40.446Z",
+    "username": "UserRocket.Chat",
+    "emails": [
+      {
+        "address": "guilhermeroza_@hotmail.com",
+        "verified": false
+      }
+    ],
+    "type": "user",
+    "status": "offline",
+    "active": true,
+    "_updatedAt": "2021-07-03T23:40:41.013Z",
+    "__rooms": [
+      "GENERAL"
+    ],
+    "roles": [
+      "user"
+    ],
+    "name": "Challenge",
+    "settings": {}
+  },
+  "success": true
+}

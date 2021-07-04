@@ -1,0 +1,9 @@
+curl -H "X-Auth-Token: eXJLOgGBV5OQz5ckVd46XsoljIN1LM_yqGiFZH1aIKo" \
+     -H "X-User-Id: DSFMxFJioDr28w6oa" \
+     -H "Content-type:application/json" \
+     http://34.95.157.174:3000/api/v1/users.create \
+     -d '{"name": "Challenge", "email": "guilhermeroza_@hotmail.com", "password": "testforrocketchat", "username": "UserRocket.Chat"}'
+
+
+
+

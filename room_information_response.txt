@@ -1,0 +1,16 @@
+{
+  "update": [
+    {
+      "_id": "GENERAL",
+      "ts": "2021-07-03T20:03:33.119Z",
+      "t": "c",
+      "name": "general",
+      "usernames": [],
+      "usersCount": 2,
+      "default": true,
+      "_updatedAt": "2021-07-03T23:40:40.480Z"
+    }
+  ],
+  "remove": [],
+  "success": true
+}
